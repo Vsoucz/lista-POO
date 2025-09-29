@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\erx2\erx2\obj\Debug\erx2.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\erx2\erx2\obj\Debug\erx2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\erx2\erx2\bin\Debug\erx2.exe.config
+C:\Users\aluno\source\repos\erx2\erx2\bin\Debug\erx2.exe
+C:\Users\aluno\source\repos\erx2\erx2\bin\Debug\erx2.pdb
+C:\Users\aluno\source\repos\erx2\erx2\obj\Debug\erx2.exe
+C:\Users\aluno\source\repos\erx2\erx2\obj\Debug\erx2.pdb
