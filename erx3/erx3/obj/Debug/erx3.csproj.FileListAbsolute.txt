@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\erx3\erx3\bin\Debug\erx3.exe.config
+C:\Users\aluno\source\repos\erx3\erx3\bin\Debug\erx3.exe
+C:\Users\aluno\source\repos\erx3\erx3\bin\Debug\erx3.pdb
+C:\Users\aluno\source\repos\erx3\erx3\obj\Debug\erx3.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\erx3\erx3\obj\Debug\erx3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\erx3\erx3\obj\Debug\erx3.exe
+C:\Users\aluno\source\repos\erx3\erx3\obj\Debug\erx3.pdb
