@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\erx4\erx4\bin\Debug\erx4.exe.config
+C:\Users\aluno\source\repos\erx4\erx4\bin\Debug\erx4.exe
+C:\Users\aluno\source\repos\erx4\erx4\bin\Debug\erx4.pdb
+C:\Users\aluno\source\repos\erx4\erx4\obj\Debug\erx4.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\erx4\erx4\obj\Debug\erx4.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\erx4\erx4\obj\Debug\erx4.exe
+C:\Users\aluno\source\repos\erx4\erx4\obj\Debug\erx4.pdb
